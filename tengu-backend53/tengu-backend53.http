@@ -1,0 +1,6 @@
+@tengu_backend53_HostAddress = http://localhost:5072
+
+GET {{tengu_backend53_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
